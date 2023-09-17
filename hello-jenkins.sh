@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello, I am from Main branch!"
+echo "Hello, I am from Dev branch!"
